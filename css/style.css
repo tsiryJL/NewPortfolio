@@ -381,7 +381,6 @@ body.offcanvas {
 .colorlib-services,
 .colorlib-contact {
   padding-top: 4em;
-  padding-bottom: 9em;
   clear: both;
   width: 100%;
   display: block; }
@@ -1458,4 +1457,14 @@ body.offcanvas {
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(255,255,255,.75);}
   to{border-right-color: transparent;}
+}
+
+#blog-1{
+  width: 100%;
+  height: 180px;
+}
+
+#blog-3{
+  width: 100%;
+  height: 186px;
 }
