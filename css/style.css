@@ -383,7 +383,9 @@ body.offcanvas {
   padding-top: 4em;
   clear: both;
   width: 100%;
-  display: block; }
+  display: block;
+  
+ }
   @media screen and (max-width: 768px) {
     .colorlib-experience,
     .colorlib-skills,
@@ -1464,3 +1466,28 @@ body.offcanvas {
     z-index: 1;
     margin-bottom: 25px;
 }
+
+.ico-1{
+  width: 35px;
+}
+
+.ico-2{
+  width: 4em;
+}
+
+.ico-link{
+  width:3em;
+  margin: 8px;
+  transition: transform .2s; /* Animation */
+}
+
+.ico-link:hover{
+  transform: scale(1.5);
+  box-shadow: 0px 3px 7px 2px rgb(44, 44, 44);
+}
+
+#margin{
+  text-align: center;
+  margin-bottom: 2em;
+}
+
