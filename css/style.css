@@ -12,9 +12,6 @@
 *
 * ======================================================= */
 body {
-  background-image: url(../images/test.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
   font-size: 15px;
